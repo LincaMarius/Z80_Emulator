@@ -27,9 +27,12 @@ And for a Debug level of value 1
 ![ Figure 2 ](/Pictures/Figure2.png)
 
 The source code for Version 0.1 is here: \
-https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version0_1/z80emu.c
+https://github.com/LincaMarius/Z80_Emulator/tree/main/z80emu/Version_0_2/z80emu.c
+
+The source code for Version 0.1 is here: \
+https://github.com/LincaMarius/Z80_Emulator/tree/main/z80emu/Version_0_1/z80emu.c
 
 For testing, a file containing Z80 source code is needed that is in the same location as the executable file and has the name ROM.bin. \
-https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version0_1/ROM.bin
+https://github.com/LincaMarius/Z80_Emulator/tree/main/z80emu/Version_0_1/ROM.bin
 
 
