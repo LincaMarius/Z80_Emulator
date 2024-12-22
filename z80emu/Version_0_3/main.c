@@ -852,33 +852,12 @@ void emuZ80(void) {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // main console program
 int main(int argc, char *argv[]) {
 
     printf("\nZ80 Emulator\n");
 
-    char *codeFile = "D:\\ROM.bin";
+    char *codeFile = "ROM.bin";
     FILE *fd;
     long filelen;
     long counter = 0;
