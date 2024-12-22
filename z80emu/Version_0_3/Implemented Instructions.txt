@@ -1,0 +1,16 @@
+
+opcode		instruction
+00h		NOP
+01h		LD BC, nn
+06h		LD B, n 
+0Eh		LD C, n
+11h		LD DE, nn
+16h		LD D, n
+1Eh		LD E, n
+21h		LD HL, nn
+26h		LD H, n
+2Eh		LD L, n
+31h		LD SP, nn
+3Eh		LD A, n 
+DD21h		LD IX, nn
+FD21h		LD IY, nn
