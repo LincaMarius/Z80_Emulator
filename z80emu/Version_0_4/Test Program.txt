@@ -1,0 +1,93 @@
+NOP
+LD A, 1Ah
+LD B, 1Bh
+LD C, 1Ch
+LD D, 1Dh
+LD E, 1Eh
+LD H, 26h
+LD L, 2Eh
+LD BC, 0BBCCh
+LD DE, 0DDEEh
+LD HL, 2211h
+LD SP, 0FEDCh
+LD IX, 2211h
+LD IY, 4433h
+LD A, A
+LD A, B
+LD A, C
+LD A, D
+LD A, E
+LD A, H
+LD A, L
+LD B, A
+LD B, B
+LD B, C
+LD B, D
+LD B, E
+LD B, H
+LD B, L
+LD A, 1Ah
+LD C, A
+LD B, 1Bh
+LD C, B
+LD C, C
+LD C, D
+LD C, E
+LD C, H
+LD C, L
+LD D, A
+LD D, B
+LD C, 1Ch
+LD D, C
+LD D, D
+LD D, E
+LD D, H
+LD D, L
+LD E, A
+LD E, B
+LD E, C
+LD D, 1Dh
+LD E, D
+LD E, E
+LD E, H
+LD E, L
+LD H, A
+LD H, B
+LD H, C
+LD H, D
+LD E, 1Eh
+LD H, E
+LD H, H
+LD H, L
+LD L, A
+LD L, B
+LD L, C
+LD L, D
+LD L, E
+LD L, H
+LD L, L
+LD I, A
+LD A, E
+LD A, I
+LD R, A
+LD A, C
+LD A, R
+LD SP, HL
+LD SP, IX
+LD SP, IY
+HALT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

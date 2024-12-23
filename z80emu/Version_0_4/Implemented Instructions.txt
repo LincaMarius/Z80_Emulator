@@ -1,0 +1,94 @@
+opcode		instruction
+00h		NOP
+01h		LD BC, nn
+06h		LD B, n
+0Eh		LD C, n
+11h		LD DE, nn
+16h		LD D, n
+1Eh		LD E, n
+21h		LD HL, nn
+26h		LD H, n
+2Eh		LD L, n
+31h		LD SP, nn
+3Eh		LD A, n
+40h		LD B, B
+41h		LD B, C
+42h		LD B, D
+43h		LD B, E
+44h		LD B, H
+45h		LD B, L
+47h		LD B, A
+48h		LD C, B
+49h		LD C, C
+4Ah		LD C, D
+4Bh		LD C, E
+4Ch		LD C, H
+4Dh		LD C, L
+4Fh		LD C, A
+50h		LD D, B
+51h		LD D, C
+52h		LD D, D
+53h		LD D, E
+54h		LD D, H
+55h		LD D, L
+57h		LD D, A
+58h		LD E, B
+59h		LD E, C
+5Ah		LD E, D
+5Bh		LD E, E
+5Ch		LD E, H
+5Dh		LD E, L
+5Fh		LD E, A
+60h		LD H, B
+61h		LD H, C
+62h		LD H, D
+63h		LD H, E
+64h		LD H, H
+65h		LD H, L
+67h		LD H, A
+68h		LD L, B
+69h		LD L, C
+6Ah		LD L, D
+6Bh		LD L, E
+6Ch		LD L, H
+6Dh		LD L, L
+6Fh		LD L, A
+76h		HALT
+78h		LD A, B
+79h		LD A, C
+7Ah		LD A, D
+7Bh		LD A, E
+7Ch		LD A, H
+7Dh		LD A, L
+7Fh		LD A, A
+F9h		LD SP, HL
+DD21h		LD IX, nn
+DDF9h		LD SP, IX
+ED47h		LD I, A
+ED4Fh		LD R, A
+ED57h		LD A, I
+ED5Fh		LD A, R
+FD21h		LD IY, nn
+FDF9h		LD SP, IY
+
+71 instructions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
