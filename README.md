@@ -26,20 +26,31 @@ And for a Debug level of value 1
 
 ![ Figure 2 ](/Pictures/Figure2.png)
 
+## Version 0.4
+This is the version in which we implemented all the Z80 processor instructions that transfer data between registers.
+The source code for Version 0.4 is here: \
+[main.c](https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_4/main.c)
+
+For testing, a file containing Z80 source code is needed that is in the same location as the executable file and has the name ROM.bin. \
+[ROM.bin](https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_4/ROM.bin)
+## Version 0.3
+This is the version where we implemented all the instructions for loading an immediate value into a register.
 The source code for Version 0.3 is here: \
-[https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_3/main.c](https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_3/main.c)
+[main.c](https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_3/main.c)
 
 For testing, a file containing Z80 source code is needed that is in the same location as the executable file and has the name ROM.bin. \
-[https://github.com/LincaMarius/Z80_Emulator/tree/main/z80emu/Version_0_3/ROM.bin](https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_3/ROM.bin)
+[ROM.bin](https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_3/ROM.bin)
 
-
+## Version 0.2
 The source code for Version 0.2 is here: \
-[https://github.com/LincaMarius/Z80_Emulator/tree/main/z80emu/Version_0_2/z80emu.c](https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_2/z80emu.c)
+[z80emu.c](https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_2/z80emu.c)
 
+## Version 0.1
+This is the initial version where we verified the implementation method of the concept
 The source code for Version 0.1 is here: \
-[https://github.com/LincaMarius/Z80_Emulator/tree/main/z80emu/Version_0_1/z80emu.c](https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_1/z80emu.c)
+[z80emu.c](https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_1/z80emu.c)
 
 For testing, a file containing Z80 source code is needed that is in the same location as the executable file and has the name ROM.bin. \
-[https://github.com/LincaMarius/Z80_Emulator/tree/main/z80emu/Version_0_1/ROM.bin](https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_1/ROM.bin)
+[ROM.bin](https://github.com/LincaMarius/Z80_Emulator/blob/main/z80emu/Version_0_1/ROM.bin)
 
 
