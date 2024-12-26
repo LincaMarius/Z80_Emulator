@@ -1,0 +1,25 @@
+opcode		instruction
+00h		NOP
+76h		HALT
+
+total 2 instructions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

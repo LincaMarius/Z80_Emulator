@@ -1,0 +1,4 @@
+Instruction	op Code		Binary			M Cycles	T Clock
+							=0M		=0T	=0 Instr
+NOP		= 00h		00		+1M	=1M	+4T	=4T	=1 Instr
+HALT		= 76h		76		+1M	=2M	+4T	=8T	=2 Instr	 
